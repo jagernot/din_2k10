@@ -1,0 +1,535 @@
+num_curves 27
+name noname
+num_vertices 3
+vertex 0 1
+left_tangent -0.05 1.1
+right_tangent 0.05 0.3
+vertex 0.35 0
+left_tangent 0.15 0.3
+right_tangent 0.85 0
+vertex 1 1
+left_tangent 0.9 0.2
+right_tangent 1.05 1.1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 2
+vertex 0 1
+left_tangent 0 1
+right_tangent 0 1
+vertex 1 1
+left_tangent 1 1
+right_tangent 1 1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 9
+vertex 0 1
+left_tangent -0.00497519 1.04975
+right_tangent 0.062841 1
+vertex 0.0872929 2.98023e-08
+left_tangent 0.0372932 2.98023e-08
+right_tangent 0.147423 2.98023e-08
+vertex 0.174444 1
+left_tangent 0.132009 1
+right_tangent 0.278622 1
+vertex 0.378214 2.98023e-08
+left_tangent 0.234377 2.98023e-08
+right_tangent 0.581598 2.98023e-08
+vertex 0.600517 1
+left_tangent 0.502767 1
+right_tangent 0.719276 1
+vertex 0.715783 2.98023e-08
+left_tangent 0.649382 0.6
+right_tangent 0.775268 0.6
+vertex 0.819535 1
+left_tangent 0.730908 1
+right_tangent 0.92882 1
+vertex 0.910836 2.98023e-08
+left_tangent 0.854119 0.4
+right_tangent 0.968937 0.4
+vertex 1 1
+left_tangent 0.892853 1
+right_tangent 1.00742 1.04945
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 8
+vertex 0 0
+left_tangent -0.00497519 -0.0497519
+right_tangent 0.062841 0
+vertex 0.0872929 1
+left_tangent 0.0372932 1
+right_tangent 0.147423 1
+vertex 0.174444 0
+left_tangent 0.132009 0
+right_tangent 0.339749 0.7
+vertex 0.378214 1
+left_tangent 0.179281 1
+right_tangent 0.476701 1
+vertex 0.715783 1
+left_tangent 0.646854 1
+right_tangent 0.775268 0.4
+vertex 0.819535 0
+left_tangent 0.730908 0
+right_tangent 0.92882 0
+vertex 0.910836 1
+left_tangent 0.854119 0.6
+right_tangent 0.968937 0.6
+vertex 1 0
+left_tangent 0.892853 0
+right_tangent 1.00742 -0.0494468
+curve_resolution 0.00299998
+color 0 0 0
+name noname
+num_vertices 8
+vertex 0 1
+left_tangent -0.00497519 1.04975
+right_tangent 0.0971729 1
+vertex 0.123963 2.98023e-08
+left_tangent 0.0739633 2.98023e-08
+right_tangent 0.184093 2.98023e-08
+vertex 0.247287 0.4
+left_tangent 0.153994 0.4
+right_tangent 0.351465 0.4
+vertex 0.378214 2.98023e-08
+left_tangent 0.328214 2.98023e-08
+right_tangent 0.441668 2.98023e-08
+vertex 0.5 1
+left_tangent 0.40225 1
+right_tangent 0.618759 1
+vertex 0.629334 2.98023e-08
+left_tangent 0.563958 2.98023e-08
+right_tangent 0.690866 2.98023e-08
+vertex 0.870002 2.98023e-08
+left_tangent 0.815201 2.98023e-08
+right_tangent 0.920002 2.98023e-08
+vertex 1 1
+left_tangent 0.899806 1
+right_tangent 1.00742 1.04945
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 8
+vertex 0 1
+left_tangent -0.00497519 1.04975
+right_tangent 0.0971729 1
+vertex 0.123963 2.98023e-08
+left_tangent 0.0739633 2.98023e-08
+right_tangent 0.184093 2.98023e-08
+vertex 0.25 1
+left_tangent 0.156707 1
+right_tangent 0.354178 1
+vertex 0.378214 2.98023e-08
+left_tangent 0.328214 2.98023e-08
+right_tangent 0.441668 2.98023e-08
+vertex 0.5 1
+left_tangent 0.40225 1
+right_tangent 0.618759 1
+vertex 0.629334 2.98023e-08
+left_tangent 0.563958 2.98023e-08
+right_tangent 0.690866 2.98023e-08
+vertex 0.870002 2.98023e-08
+left_tangent 0.815201 2.98023e-08
+right_tangent 0.920002 2.98023e-08
+vertex 1 1
+left_tangent 0.899806 1
+right_tangent 1.00742 1.04945
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 7
+vertex 0 1
+left_tangent -0.00497519 1.04975
+right_tangent 0 0.6
+vertex 0.1 2.98023e-08
+left_tangent 0.0500003 2.98023e-08
+right_tangent 0.16013 2.98023e-08
+vertex 0.378214 2.98023e-08
+left_tangent 0.328214 2.98023e-08
+right_tangent 0.45 2.98023e-08
+vertex 0.5 1
+left_tangent 0.5 0.8
+right_tangent 0.5 0.8
+vertex 0.6 2.98023e-08
+left_tangent 0.534624 2.98023e-08
+right_tangent 0.661532 2.98023e-08
+vertex 0.9 2.98023e-08
+left_tangent 0.845199 2.98023e-08
+right_tangent 0.95 2.98023e-08
+vertex 1 1
+left_tangent 1 0.7
+right_tangent 1.00742 1.04945
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 5
+vertex 0 1
+left_tangent -0.00497519 1.04975
+right_tangent 0.00597193 0.749168
+vertex 0.1 2.98023e-08
+left_tangent 0.0500003 2.98023e-08
+right_tangent 0.16013 2.98023e-08
+vertex 0.4 2.98023e-08
+left_tangent 0.35 2.98023e-08
+right_tangent 0.463454 2.98023e-08
+vertex 0.5 1
+left_tangent 0.491559 0.798242
+right_tangent 0.55 1
+vertex 1 1
+left_tangent 0.899806 1
+right_tangent 1.00742 1.04945
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 5
+vertex 0 1
+left_tangent -0.00497519 1.04975
+right_tangent 0 0
+vertex 0.123963 0
+left_tangent 0.0739633 0
+right_tangent 0.184093 0
+vertex 0.65 0
+left_tangent 0.6 0
+right_tangent 0.713454 0
+vertex 0.75 1
+left_tangent 0.65225 1
+right_tangent 0.8 1
+vertex 1 1
+left_tangent 0.9 1
+right_tangent 1.00742 1.04945
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 7
+vertex 0 1
+left_tangent -0.023963 0.1
+right_tangent 0.026037 0.1
+vertex 0.25 0
+left_tangent 0.156707 0
+right_tangent 0.354178 0
+vertex 0.378214 1
+left_tangent 0.35 0.1
+right_tangent 0.4 0.1
+vertex 0.5 0
+left_tangent 0.40225 0
+right_tangent 0.618759 0
+vertex 0.629334 1
+left_tangent 0.6 0.1
+right_tangent 0.65 0.1
+vertex 0.75 0
+left_tangent 0.661373 0
+right_tangent 0.844044 0
+vertex 1 1
+left_tangent 0.979998 0.1
+right_tangent 1.03 0.1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 5
+vertex 0 1
+left_tangent -0.023963 0.1
+right_tangent 0.094266 1
+vertex 0.378214 1
+left_tangent 0.311283 1
+right_tangent 0.4 0.1
+vertex 0.5 0
+left_tangent 0.40225 0
+right_tangent 0.618759 0
+vertex 0.629334 1
+left_tangent 0.6 0.1
+right_tangent 0.730711 1
+vertex 0.95 1
+left_tangent 0.855702 1
+right_tangent 0.979998 0.1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 5
+vertex 0 1
+left_tangent -0.023963 0.1
+right_tangent 0.126037 0
+vertex 0.378214 1
+left_tangent 0.25 0
+right_tangent 0.4 0.1
+vertex 0.5 0
+left_tangent 0.45 1
+right_tangent 0.55 1
+vertex 0.629334 1
+left_tangent 0.6 0.1
+right_tangent 0.75 0
+vertex 1 1
+left_tangent 0.879998 0
+right_tangent 1.03 0.1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 3
+vertex 0 1
+left_tangent -0.15 0.5
+right_tangent 0.8 1
+vertex 0.9 -0.1
+left_tangent 0.45 -0.1
+right_tangent 1 -0.1
+vertex 1 1
+left_tangent 0.945199 1
+right_tangent 1.03 0.3
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 4
+vertex 0 1
+left_tangent -0.1 1
+right_tangent 0.3 1
+vertex 0.4 0
+left_tangent 0.25 0
+right_tangent 0.5 0
+vertex 0.65 0
+left_tangent 0.6 0
+right_tangent 0.75 0
+vertex 1 1
+left_tangent 0.7 1
+right_tangent 1.1 1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 2
+vertex 0 1
+left_tangent -0.15 0.8
+right_tangent 0.3 -0.2
+vertex 1 1
+left_tangent 0.729998 -0.2
+right_tangent 1.23 0.3
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 5
+vertex 0.1 1
+left_tangent 0 1
+right_tangent 0.16013 1
+vertex 0.378214 1
+left_tangent 0.328214 1
+right_tangent 0.45 1
+vertex 0.5 0
+left_tangent 0.5 0.2
+right_tangent 0.5 0.2
+vertex 0.6 1
+left_tangent 0.534624 1
+right_tangent 0.661532 1
+vertex 0.95 1
+left_tangent 0.895199 1
+right_tangent 1 1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 6
+vertex 0 1
+left_tangent 0 1
+right_tangent 0 1
+vertex 0.494455 1
+left_tangent 0.494455 1
+right_tangent 0.494455 1
+vertex 0.600517 0
+left_tangent 0.600517 0
+right_tangent 0.600517 0
+vertex 0.737307 1
+left_tangent 0.737307 1
+right_tangent 0.737307 1
+vertex 0.893664 0
+left_tangent 0.893664 0
+right_tangent 0.893664 0
+vertex 1 1
+left_tangent 1 1
+right_tangent 1 1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 10
+vertex 0 1
+left_tangent 0 1
+right_tangent 0 1
+vertex 0.1 0
+left_tangent 0.1 0
+right_tangent 0.1 0
+vertex 0.2 1
+left_tangent 0.2 1
+right_tangent 0.2 1
+vertex 0.3 0
+left_tangent 0.3 0
+right_tangent 0.3 0
+vertex 0.4 1
+left_tangent 0.4 1
+right_tangent 0.4 1
+vertex 0.5 0
+left_tangent 0.5 0
+right_tangent 0.5 0
+vertex 0.6 1
+left_tangent 0.6 1
+right_tangent 0.6 1
+vertex 0.7 0
+left_tangent 0.7 0
+right_tangent 0.7 0
+vertex 0.8 1
+left_tangent 0.8 1
+right_tangent 0.8 1
+vertex 1 1
+left_tangent 1 1
+right_tangent 1 1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 6
+vertex 0 1
+left_tangent 0 1
+right_tangent 0 1
+vertex 0.05 0
+left_tangent 0.05 0
+right_tangent 0.05 0
+vertex 0.2 1
+left_tangent 0.2 1
+right_tangent 0.2 1
+vertex 0.8 1
+left_tangent 0.8 1
+right_tangent 0.8 1
+vertex 0.95 0
+left_tangent 0.95 0
+right_tangent 0.95 0
+vertex 1 1
+left_tangent 1 1
+right_tangent 1 1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 6
+vertex 0 1
+left_tangent 0 1
+right_tangent 0 1
+vertex 0.15 0
+left_tangent 0.1 0
+right_tangent 0.520617 0
+vertex 0.513338 1
+left_tangent 0.513338 1
+right_tangent 0.513338 1
+vertex 0.609813 1
+left_tangent 0.609813 1
+right_tangent 0.609813 1
+vertex 0.9 0
+left_tangent 0.64419 0
+right_tangent 0.95 0
+vertex 1 1
+left_tangent 1 1
+right_tangent 1 1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 6
+vertex 0 1
+left_tangent 0 1
+right_tangent 0 1
+vertex 0.15 0
+left_tangent 0.053139 0.4
+right_tangent 0.282354 2.2
+vertex 0.419088 0
+left_tangent 0.369088 0
+right_tangent 0.460486 1.1
+vertex 0.576382 0.6
+left_tangent 0.576382 0.6
+right_tangent 0.576382 0.6
+vertex 0.70949 0
+left_tangent 0.629166 1.8
+right_tangent 0.785245 0
+vertex 1 1
+left_tangent 1 1
+right_tangent 1 1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 3
+vertex 0 1
+left_tangent -0.05 1
+right_tangent 0 0
+vertex 0.6 0
+left_tangent 0.1 0
+right_tangent 0.65 0.8
+vertex 1 1
+left_tangent 0.6 1
+right_tangent 1.05 0.8
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 3
+vertex 0 1
+left_tangent -0.05 1
+right_tangent 0 -0.5
+vertex 0.6 0
+left_tangent 0.6 1.8
+right_tangent 0.9 0
+vertex 1 1
+left_tangent 0.6 1
+right_tangent 1.05 0.8
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 3
+vertex 0 1
+left_tangent -0.15 0.5
+right_tangent 0 0
+vertex 0.9 0
+left_tangent 0.15 0
+right_tangent 0.9 0.8
+vertex 1 1
+left_tangent 0.9 1
+right_tangent 1.03 0.3
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 3
+vertex 0 1
+left_tangent -0.15 0.5
+right_tangent 0.8 1
+vertex 0.9 -0.1
+left_tangent 0.45 -0.1
+right_tangent 1 -0.1
+vertex 1 1
+left_tangent 0.945199 1
+right_tangent 1.03 0.3
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 5
+vertex 0 1
+left_tangent -0.023963 0.1
+right_tangent 0.126037 0
+vertex 0.378214 1
+left_tangent 0.25 0
+right_tangent 0.4 0.1
+vertex 0.5 0
+left_tangent 0.45 1
+right_tangent 0.55 1
+vertex 0.629334 1
+left_tangent 0.6 0.1
+right_tangent 0.75 0
+vertex 1 1
+left_tangent 0.879998 0
+right_tangent 1.03 0.1
+curve_resolution 0.00033331
+color 0 0 0
+name noname
+num_vertices 5
+vertex 0 1
+left_tangent 0 1
+right_tangent 0 1
+vertex 0.5 1
+left_tangent 0.5 1
+right_tangent 0.5 1
+vertex 0.7 0
+left_tangent 0.65 0.8
+right_tangent 0.75 0
+vertex 0.95 0
+left_tangent 0.95 0
+right_tangent 0.95 0
+vertex 1 1
+left_tangent 1 1
+right_tangent 1 1
+curve_resolution 0.00033331
+color 0 0 0

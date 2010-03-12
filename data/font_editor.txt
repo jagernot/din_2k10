@@ -1,0 +1,7 @@
+window -456.088 -284.179 461.951 404.349
+win_chunk 100 100
+obj_chunk 1 1
+snap both
+win_resolution 0
+delta_pan 1
+delta_zoom 1

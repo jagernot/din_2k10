@@ -1,0 +1,19 @@
+#! /bin/sh
+dindir=`echo \`which din\` | sed s/din//`
+vardir0=$dindir../var/din/
+vardir1=$HOME/\.din/
+if test -d $vardir1
+then
+	echo "using data files in: $vardir1"
+	exit 0
+else
+	echo "creating: $vardir1"
+	mkdir $vardir1
+fi
+
+for i in `ls $vardir0`
+do
+	cp -rfv $vardir0$i $vardir1$i
+done
+
+exit 0

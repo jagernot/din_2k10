@@ -1,0 +1,7 @@
+resonators_file resonators
+scroll 1 1
+board_height 350
+notate 0
+rollup 0
+ncores 1
+delay 1

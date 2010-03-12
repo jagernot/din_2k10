@@ -1,0 +1,14 @@
+
+map editor help:
+  
+  r - add resonator.
+  
+  . - enable/disable resonator under mouse.
+  LSHIFT + . - disable all resonators except resonator under mouse.
+  LCTRL + . - enable all resonators.
+  
+  disabling all resonators except moused resonator is useful for 
+  checking the contribution of the moused resonator.
+  
+  
+  

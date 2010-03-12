@@ -1,0 +1,65 @@
+curve editor help:
+    
+    esc: quit editor
+  
+    curve selection:  
+		
+			r: pick curve vertex/tangent under cursor.
+			left_arrow: previous selection 
+			right_arrow: next selection
+      
+    curve edit:
+		
+      f: press to pick vertex/tangent, move with mouse and press f again to stop.
+         press lshift+f to move picked vertex and all following vertices. 
+         therfore, pick first vertex to move whole curve.
+         press lctrl+f to scale vertices.
+      i: press once to pick curve, press again to insert vertex.
+      v: delete vertex/tangents under cursor - wont delete if curve has only 2 vertices.
+      t: mirror vertex/tangents about x-axis. press LSHIFT+r to mirror the entire curve.
+      g: scratch curve tool. press once to pick curve. press as necessary to add vertices.
+      h: complete scratch curve and replace the picked curve.
+      l: convert curve to polyline. press LSHIFT+l to fold tangents of picked vertex only. 
+      k: convert curve to catmull rom curve. press LSHIFT+k to unfurl tangents of picked vertex only.
+      [: decrease curve resolution.
+      ]: increase curve resolution.
+      lctrl+c: copy curve under cursor.
+      lctrl+v: replace curve under cursor with copied curve.
+      z: undo last operation.
+      lctrl+z: redo last operation.
+    
+    curve library:
+      u: move current curve in library one position up.
+      j: move current curve in library one position down.
+      7: insert curve in editor into library.
+      8: replace current curve in library with curve in editor.
+      9: replace curve in editor with previous curve in library.
+      0: replace curve in editor with next curve in library.
+      -: delete current curve in library.
+      +: add curve in editor to library.
+
+    tangents:
+      c: toggle if vertices should carry their tangents when moved.
+      m: toggle if movement of a vertex's tangent is mirrored on its other tangent.
+    
+    movement: 
+      w, s, a , d for up, down, left and right.
+
+    snap:
+      x: toggle x snap.
+      y: toggle y snap.
+      b: toggle x and y snap.
+      n: turn off snap.
+    
+    visual:
+      f5, f6: decrease, increase x chunk size
+      lshift+f5, lshift+f6: decrease, increase y chunk size
+      ;: change color of a picked curve.
+      ,: mark curve.
+      ': decrease handle size.
+      \: increase handle size.
+      
+    mouse capture:
+      f7: start/stop mouse capture.
+      f8: assign mouse capture to vertex/tangent under cursor.
+      f9: detach mouse capture from vertex/tangent under cursor.

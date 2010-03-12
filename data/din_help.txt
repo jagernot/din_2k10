@@ -1,0 +1,61 @@
+din
+a digital instrument for performing music.
+Copyright (c) 2006-2010 Sampath Jagannathan <jagernot@gmail.com>
+Distributed under GNU Public License Version 2.0.
+
+drone:
+
+	, - decrease drone master volume
+	. - increase drone master volume
+	/ - mute / unmute drone
+	q - add drone
+	e - edit drone
+	c - delete drone
+
+phrasor:
+
+	f - start/stop recording
+	v - play 
+	g - clear recording
+	down arrow - set cue point
+	up arrow - goto cue point
+	left arrow - rewind playback
+	right arrow - speedup playback
+
+delay:
+
+	' - toggle delay
+
+gater:
+
+	b - toggle gater
+
+tuning:
+
+	<semicolon> : set sa/key to tone under cursor.
+	n: tune note to tone under cursor
+	LSHIFT + n: restore nearest note to original tuning.
+	LCTRL + n: restore all notes to original tuning.
+
+ranges:
+
+	m: set num microtones in current range to default.
+	LSHIFT + m: set num microtones in all ranges to default.
+	LCTRL + m: set num microtones in all ranges to num microtones in current range.
+
+console:
+
+	ins, del: scroll up, down.
+	pgup, pgdn: page up, page down.
+	<backspace>: delete all text in console.
+	
+	<tab> : enter/leave command mode.
+	In command mode, type help to reveal available commands.
+
+movement:
+
+	a, d, w, s: left, right, up and down
+
+tip:
+
+	maximise your screen. 

@@ -1,0 +1,13 @@
+name am
+num_vertices 3
+vertex 0 0
+left_tangent -0.0599649 -0.0900217
+right_tangent 0.35 -2.2
+vertex 0.55 0.5
+left_tangent 0.489377 -3.9
+right_tangent 1.09004 6.3
+vertex 1.11276 0
+left_tangent 0.707748 -7.5
+right_tangent 1.17344 0.0815035
+curve_resolution 0.000332919
+color 0.883378 0.385058 0.855679

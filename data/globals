@@ -1,0 +1,15 @@
+app_name din
+screen 640 480 32
+sample_rate 48000
+intervals_file ji.txt
+raga bhairav
+keyboard_location 0 150
+key_height 350
+num_microtones 160
+scroll 9
+
+// comments here only
+// ji.txt = just intonation
+// et.txt = equal temperament
+// key_size <width> <height>
+// keyboard_location <left> <bottom>

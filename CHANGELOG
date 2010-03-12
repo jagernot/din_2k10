@@ -1,0 +1,52 @@
+march 12, 2010:
+	** made basic install of din easy such that its a gateway to explore more complex features of din.
+	+++ allow din board height to be changed allowing finer or coarser volume control.
+march 08, 2010:
+	+ sine wave -> bezier curve: export sine wave generated with the sine_mixer as a bezier waveform. 100 vertices with folded tangents generated. a ui/command to 	reduce/control number of generated points desired.
+	+ bezier curve -> sine wave: import fft levels of a bezier waveform into sine levels and alter the drawn sine wave. only partially correct as it doesnt import phase information from the fft. works when phase is 0.
+	+ clear/erase harmonic by pressing 'c' over sine levels.
+	! use resonator names from file instead of resetting to default name/numbering.
+	+ current curve editor var in uis_t to keep track of the current curve editor so we can run curve commands on the console.
+	+ curve_name command to set the curve name. possible due to previous feature.
+	* worked on resonators in file: resonators, one
+december 18, 2009:
+	** bug fixed: pan and zoom with shift+a/d and shift+q/e
+november 20, 2009:
+	assigned curve names, save and load curve names when curves are loaded. default name is noname.
+	fixed bug: can change resolution of curves in modulation and gater editors.
+november 13, 2009:
+	mouse position saved and restored on din board
+		TODO: but must be done for all ui screens and must also restore window position
+november 11, 2009:
+	console rollup state saved/restored
+	removed numeric notation of ranges as it doesnt work for keys other than C. will revisit later.
+november 9, 2009:
+	removed set_bg command - no range color filling, just plain looking ui. its the sound we are after.
+	notation support: indian (S r etc), western (C C# etc) and numeric (1 2b etc)
+	optimised solver.h/cc again to return last result when y cannot be solved for given x.
+	FIXED BUG: In console, if you clear text (press backspace), and rollup console - crash 
+	fixed colors used for drawing ranges, phrasor position and drone makers	 
+november 4, 2009:
+	*** cleaned up the trunk
+	!!! optimised the configure.ac and Makefile.am 
+	+++ BUGS
+october 15, 2009:
+	***marked position of phrasor when paused
+october 14, 2009:
+	+++get_kern command to get character kerning in the font.
+	+++added {}`| characters to the font
+october 10, 2009:
+	!!!!++++multicore support added
+	+++xset m 0 0 to reset mouse to zero acceleration and threshold when
+		 din, and restore upon exit.
+october 9, 2009:
+	!!! fixed ranga backdrop drawing bug
+	+++ added support for audio out via alsa dmix so that you could play 
+			an audio clip in the background and play din over it.
+	*** preparing for release of din. version 1.
+may 7, 2009:
+	+++fft.cc, fft.h - separated fft engine from curve editor
+	***worked on the resonators
+may 6, 2009:
+	+++ added ability to move the mouse in curve editors with the keyboard 
+	+++ vary the pan and zoom speeds

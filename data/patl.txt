@@ -1,0 +1,19 @@
+name noname
+num_vertices 5
+vertex 0 1
+left_tangent 0 1
+right_tangent 0 1
+vertex 0.355212 1
+left_tangent 0.355212 1
+right_tangent 0.355212 1
+vertex 0.7 0
+left_tangent 0.65 0.8
+right_tangent 0.75 0
+vertex 0.95 0
+left_tangent 0.95 0
+right_tangent 0.95 0
+vertex 1 1
+left_tangent 1 1
+right_tangent 1 1
+curve_resolution 0.00033331
+color 1 0.4 0.4

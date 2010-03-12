@@ -1,0 +1,12 @@
+window -502.427 -1778.03 4472.93 1953.48
+win_chunk 169 123
+obj_chunk 0.05 0.1
+snap both
+win_resolution 1
+delta_pan 2
+delta_zoom 3
+carry_tangents 1
+mirror_tangents 0
+curve_handle_radius 8
+rnd_miny_maxy -1 1
+fft_enabled 1

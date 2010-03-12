@@ -1,0 +1,52 @@
+din board:
+
+	* change the height to allow finer control over volume - currently, se
+		set as parameter KEY_HEIGHT from globals 
+		
+	* set range sizes based on note interval lengths. currently its a 
+		constant number of microtones.
+
+commands:
+
+	* separate help files for each command to enable detailed help instead of one liners.
+		--- partly done, better to have some as one liners and others as full help files.
+
+curve_editor:
+	
+	* accelerate zoom and pan (especially useful in modulation editors during performance).
+		* zoom and pan set as command value
+			* bookmarks? embedded as part of undo?
+	* control win_chunk, curv_chunk from console
+	* assign curve name from command
+	* multi select
+		* box selection
+	* multi op - move/insert/delete with undo
+	
+sine_mixer:
+	* take levels from fft
+	* paint clear harmonics with 'c'.
+		
+resonators:
+
+	* delete disabled resonators on save
+	* delete resonators and undo/redo the delete.
+	* save resonators to file thru a command instead of saving on quit.
+	
+
+general:
+
+	ui: 
+		save mouse position when leaving and restore when back
+
+	audio:
+		support JACK
+			setup from console.
+			support switch to portaudio.
+			save setup for restart.
+
+		video:
+			full-screen / windowed video mode.
+			allow selection of modes
+
+misc:
+        dpkg-shlibdeps: warning: dependency on libasound.so.2 could be avoided if "debian/din/usr/bin/din" were not uselessly linked against it (they use none of its symbols).

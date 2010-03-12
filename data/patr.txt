@@ -1,0 +1,22 @@
+name noname
+num_vertices 6
+vertex 0 1
+left_tangent 0 1
+right_tangent 0 1
+vertex 0.15 0
+left_tangent 0.1 0
+right_tangent 0.204837 0.9
+vertex 0.258543 1
+left_tangent 0.258543 1
+right_tangent 0.258543 1
+vertex 0.800199 1
+left_tangent 0.800199 1
+right_tangent 0.800199 1
+vertex 0.9 0
+left_tangent 0.869248 0.9
+right_tangent 0.95 0
+vertex 1 1
+left_tangent 1 1
+right_tangent 1 1
+curve_resolution 0.00033331
+color 0.4 1 0.4
